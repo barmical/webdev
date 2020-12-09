@@ -1,0 +1,313 @@
+@import url('https://fonts.googleapis.com/css2?family=Patua+One&family=Poppins&family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Handlee&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Stalinist+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Roboto+Mono&display=swap');
+body{
+  background:url('chase-jiggliemon-wilson-6qykGgVtUrM-unsplash.jpg');
+  background-position: center;
+  background-size: cover;
+
+  font-family: "Handlee";
+  font-weight: 1000;
+  margin: 0px;
+  color: rgb(210 220 205);
+}
+
+#judul{
+  font-family: 'Merriweather';
+  color: #542f01bd;
+  margin: 0px;
+  justify-content:center;
+  align-items:center;
+  display:flex;
+  font-size: 130px;
+  padding-top: 192px;
+}
+
+#sub-judul{
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+  font-size: 51px;
+  padding-top: 10px;
+  color: #e0ff81;
+}
+
+body header h2{
+  font-family: 'Shadows Into Light';
+  color: rgb(210 220 205);
+}
+
+#main-header {
+  background:url('Download Beautiful Mountain Chain Landscape At Sundown With Birds for free.jpg');
+  background-position: center;
+  background-size: cover;
+  height: 620px;
+  box-shadow: 15px 15px 15px #908A88;
+}
+.mainmenu{
+  font-family: serif;
+  list-style: none;
+  font-size: 20px;
+  background: #005024d4;
+  width: 100%;
+  height: 40px;
+  box-shadow: 15px 15px 15px #27282A;
+}
+
+.menu, .menu-color{
+  margin: 0px;
+  padding: 7px 29px 0px 29px;
+  list-style: none;
+  display: inline-grid;
+  align-items: center;
+}
+
+.menu-color{
+  padding: 2px;
+  vertical-align: middle;
+
+}
+
+
+.detail{
+  padding: 7px 0px 5px 21px;
+  font-size: 16px;
+  color: #0A0909;
+  display: block;
+}
+
+.detail:hover{
+  background: #DCDCDC;
+  opacity: 0.5;
+}
+
+.profile-menu{
+  list-style: none;
+  padding: 0px 21px 1px 6px;
+  color: #d4c4c4;
+  margin-left: 6px;
+  border-radius: 7px 7px 7px 7px;
+}
+
+.profile-menu:hover{
+  background: #DCDCDC;
+  color: #000;
+  text-align: center;
+}
+
+.profile-submenu{
+  list-style: none;
+  padding: 0px;
+  border: 1px solid #000;
+  margin-top: 11px;
+  width: 120px;
+  border-radius: 10px 10px 10px 10px;
+  display: none;
+}
+
+.profile-submenu a.active{
+  display: block;
+
+}
+
+section audio {
+  border: 3px solid #c78b5f;
+  padding: 10px;
+
+}
+
+.my-music {
+  width: 98%;
+  margin : 5px;
+  padding: 5px;
+}
+
+#submitmusic {
+  margin-bottom: 10px;
+
+}
+
+.my-music1 {
+  transition: box-shadow;
+}
+
+.my-music1:hover {
+  box-shadow: 3px 3px 3px #2fab22;
+}
+
+.my-music2 {
+  transition: box-shadow;
+}
+
+.my-music2:hover {
+  box-shadow: 3px 3px 3px #2fab22;
+}
+
+.my-music:focus {
+  color: #30B03C;
+  background: #F0E8E7;
+  outline-color: #4F4B4A;
+}
+
+section video {
+  border: 3px solid #c78b5f;
+  padding: 10px;
+  margin-top: 20px;
+  height: 450px;
+}
+
+#daftar-hp {
+  margin: auto;
+  display: inline-block;
+  border: 3px solid #c78b5f;
+}
+
+#judul-list{
+  color: #e1e4e0;
+  font-family: 'Merriweather';
+}
+
+#dreamlaptop {
+  border: 0px solid #000;
+}
+
+article:focus {
+  background: #F34D52;
+
+}
+
+.bolded-link{
+  font-weight: 2000;
+  margin-bottom: 30px;
+  color: #000;
+}
+
+.history-orders{
+  border: 2px solid #c78b5f;
+  padding: 10px;
+  color: #fff;
+  font-style: normal;
+}
+
+article {
+  max-width: 70%;
+  display: inline-block;
+  border: 5px solid #1c6317;
+  margin: 10px;
+  padding: 10px;
+  box-shadow: 2px 2px 2px #318428;
+  transition: box-shadow;
+
+}
+
+article:hover {
+  box-shadow: 4px 4px 4px #2fab22;
+
+}
+
+.daftar-order {
+  width: 100%;
+  height: 200px;
+  background-position: center !important;
+  background-size: cover !important;
+
+}
+
+.history-order{
+  max-width: 70%;
+  display: inline-block;
+  border: 5px solid #1c6317;
+  margin: 10px;
+  padding: 0px 29px 0px 29px;
+  box-shadow: 2px 2px 2px #318428;
+  transition: box-shadow;
+}
+
+#top-Laptop {
+  border: 3px solid #c78b5f;
+  padding: 10px;
+  max-height: 250px;
+  overflow: scroll;
+  overflow-x: hidden;
+}
+
+}
+
+#top-Laptop:focus {
+  background: #66F655;
+}
+
+th{
+  padding: 10px;
+}
+
+tbody{
+  padding: 5px;
+}
+
+h1 {
+  text-align: center;
+}
+
+a:hover {
+  color: #f00;
+}
+
+.typemusic, .artist {
+  width: 48%;
+  margin: 5px;
+  padding: 5px;
+  background: #CACFD2
+}
+
+.typemusic:focus, .artist:focus {
+  color: #30B03C;
+  background: #F0E8E7;
+  outline-color: #4F4B4A;
+}
+
+.opinion {
+  height: 161px;
+  border: 3px solid #c78b5f;
+  padding: 10px;
+  width: 46%;
+  margin-top: 10px;
+  resize: none;
+  background: #CACFD2;
+}
+
+#shortcut{
+  display: inline-block;
+  position: absolute;
+  display: none;
+}
+
+.shortcut-menu{
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+.shortcut-menu a{
+  color: #fdfdfd;
+  text-decoration: none;
+  display: block;
+  width: 115px;
+  height: 33px;
+  padding: 18px 20px 0px 20px;
+  background: #1f1212c9;
+}
+
+.shortcut-menu a:hover{
+  background: #a9a9a9;
+  text-align: center;
+}
+
+.shortcut-menu a.hidden{
+  display: none;
+}
+
+.shortcut-menu a.hidden.shown{
+  display: block;
+}
